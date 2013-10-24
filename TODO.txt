@@ -1,0 +1,3 @@
+
+- pytrade/test/ -  use standard unittest module
+- register on pypi and upload http://guide.python-distribute.org/creation.html
