@@ -1,0 +1,4 @@
+PyTrade
+=======
+
+Python trading systems
